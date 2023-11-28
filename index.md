@@ -19,5 +19,4 @@ Categorizing transactions from memos tends to be fairly straightforward, so I th
 **What other techniques would you be interested in using in your project?**
 I think introducing a time series model like a moving average might be good way to predict transaction values for users that can then be used in risk scoring. 
 
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
 
